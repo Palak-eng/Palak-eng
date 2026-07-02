@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Cool+Projects;Game+Developer;WebXR+%7C+AR+Explorer;Blender+3D+Artist;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Palak-eng&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
