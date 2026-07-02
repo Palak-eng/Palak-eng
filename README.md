@@ -91,19 +91,11 @@ me = Developer()
 # 🚀 Featured Projects
 
 ### 🎮 AI Game Generator
-Generate creative game ideas using AI.
+https://github.com/Palak-eng/AI-GAME-GENERATOR
 
-### 🥽 WebXR AR Projects
-Interactive Augmented Reality experiences in the browser.
 
-### 🤖 Machine Learning Projects
-Regression, Classification, Clustering, and more.
 
-### 🎨 Blender Portfolio
-3D renders, animations, and environments.
 
-### 💻 DSA Solutions
-Coding interview preparation with C++.
 
 ---
 
