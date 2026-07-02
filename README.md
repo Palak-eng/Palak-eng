@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Palak Barsaiyan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Cool+Projects;Game+Developer;WebXR+%7C+AR+Explorer;Blender+3D+Artist;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Cool+Projects;Game+Developer;WebXR+Developer;Blender+3D+Artist;Always+Learning+Something+New"/>
 
 <img src="https://komarev.com/ghpvc/?username=Palak-eng&label=Profile+Views&color=0e75b6&style=flat"/>
 
@@ -13,11 +13,18 @@
 # 🚀 About Me
 
 ```python
-class Palak:
+class Developer:
 
     def __init__(self):
+        self.name = "Palak Barsaiyan"
         self.role = "AI & ML Engineering Student"
-        self.languages = ["Python", "C++", "JavaScript"]
+
+        self.languages = [
+            "Python",
+            "C++",
+            "JavaScript"
+        ]
+
         self.interests = [
             "Machine Learning",
             "Artificial Intelligence",
@@ -27,15 +34,17 @@ class Palak:
             "Computer Vision"
         ]
 
-    def current_focus(self):
-        return [
+        self.currently_learning = [
             "Machine Learning",
             "Data Structures & Algorithms",
-            "Building AI Projects",
-            "AR Experiences"
+            "Backend Development",
+            "WebXR",
+            "Blender"
         ]
 
-me = Palak()
+        self.goal = "Build impactful AI products and become an AI Software Engineer."
+
+me = Developer()
 ```
 
 ---
@@ -44,26 +53,25 @@ me = Palak()
 
 ### Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css"/>
 </p>
 
-### AI / ML
+### AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
 </p>
 
-### Development
+### Development Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-### Game Development
+### Game Development & 3D
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=unity,blender"/>
 </p>
 
@@ -71,32 +79,31 @@ me = Palak()
 
 # 🌱 Currently Learning
 
-* 🤖 Machine Learning
-* 📊 Data Structures & Algorithms
-* 🥽 WebXR
-* 🎮 AI Game Development
-* 🎨 Blender
-* ☁️ Backend Development
+- 🤖 Machine Learning
+- 💻 Data Structures & Algorithms
+- 🥽 WebXR & Augmented Reality
+- 🎮 AI-Powered Game Development
+- 🎨 Blender
+- ☁️ Backend Development
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🎮 AI Game Generator
+Generate creative game ideas using AI.
 
-Generate complete game ideas with AI.
-
-### 🥽 WebXR AR Experiences
-
-Interactive Augmented Reality projects that run directly in the browser.
+### 🥽 WebXR AR Projects
+Interactive Augmented Reality experiences in the browser.
 
 ### 🤖 Machine Learning Projects
-
-Regression, Classification, Clustering and more.
+Regression, Classification, Clustering, and more.
 
 ### 🎨 Blender Portfolio
+3D renders, animations, and environments.
 
-3D renders, animations and environments.
+### 💻 DSA Solutions
+Coding interview preparation with C++.
 
 ---
 
@@ -104,15 +111,15 @@ Regression, Classification, Clustering and more.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palak-eng&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-eng&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Palak-eng&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,7 +129,7 @@ Regression, Classification, Clustering and more.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Palak-eng&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -132,7 +139,7 @@ Regression, Classification, Clustering and more.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-eng&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -140,50 +147,54 @@ Regression, Classification, Clustering and more.
 
 # 🐍 Contribution Snake
 
-<p align="center">
+> **Coming Soon...**
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+The snake animation will appear after enabling a GitHub Action.
 
 ---
 
 # 🎯 2026 Goals
 
-* ✅ Master Machine Learning
-* ✅ Solve 500+ DSA Questions
-* ✅ Publish Multiple AI Projects
-* ✅ Build WebXR Applications
-* ✅ Create Stunning Blender Animations
-* ✅ Contribute to Open Source
-* ✅ Secure an AI/ML Software Engineering Job
+- ✅ Master Machine Learning
+- ✅ Solve 500+ DSA Problems
+- ✅ Build 15 AI Projects
+- ✅ Build 5 WebXR Applications
+- ✅ Publish 10 Blender Animations
+- ✅ Contribute to Open Source
+- ✅ Secure an AI/ML Software Engineering Job
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Palak-eng">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/palak-barsaiyan/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:palakbarsaiyan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 </p>
+
+- 📧 **Email:** palakbarsaiyan@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/palak-barsaiyan/
+- 🌐 **GitHub:** https://github.com/Palak-eng
 
 ---
 
 <div align="center">
 
-### 💡 *"Build consistently. Learn continuously. Share openly."*
+### 💡 *"Code. Build. Learn. Repeat."*
 
-⭐ If you like my projects, consider giving them a star!
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving my repositories a ⭐.
 
 </div>
