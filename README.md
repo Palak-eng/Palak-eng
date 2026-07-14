@@ -131,17 +131,8 @@ The snake animation will appear after enabling a GitHub Action.
 
 ---
 
-# 🎯 2026 Goals
 
-- ✅ Master Machine Learning
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 15 AI Projects
-- ✅ Build 5 WebXR Applications
-- ✅ Publish 10 Blender Animations
-- ✅ Contribute to Open Source
-- ✅ Secure an AI/ML Software Engineering Job
 
----
 
 # 🤝 Connect With Me
 
