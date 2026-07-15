@@ -93,6 +93,9 @@ me = Developer()
 ### 🎮 AI Game Generator
 https://github.com/Palak-eng/AI-GAME-GENERATOR
 
+### Avatar Customizer
+https://github.com/Palak-eng/AVATAR-CUSTOMIZER.git
+
 
 
 
